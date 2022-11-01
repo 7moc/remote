@@ -1,10 +1,11 @@
 {
-    "code": 200001,
-    "msg": "success",
     "eth_test_address":"0x655BDcb8F1d2CeD98d521a6B8f23badd892a2D98",
     "bsc_test_address":"0x72b61c6014342d914470ec7ac2975be345796c2b",
     "polygon_test_address":"0x33c2E4d8975950fe0c04146f39794C3f00569382",
     "tg_token":"1352370684:AAHrnyW26IPupau93pfE4b3ExfdJuOfErA8",
+    "eth_web3":"https://mainnet.infura.io/v3/7906bef1634f4e24b1665f47b0e0ad6f",
+    "bsc_web3":"https://bsc-dataseed.binance.org/",
+    "bsc_testnet_web3":"https://data-seed-prebsc-1-s1.binance.org:8545/",
     "keyword":["abandon", "ability", "able", "about", "above", "absent", "absorb", "abstract", "absurd", "abuse", "access", "accident", "account", "accuse", "achieve", "acid", "acoustic", "acquire", "across", "act", "action", "actor", "actress", "actual", "adapt", "add", "addict", "address", "adjust", "admit", "adult", "advance", "advice", "aerobic", "affair", "afford", "afraid", "again", "age", "agent", "agree", "ahead", "aim", "air", "airport", "aisle", "alarm", "album"],
     "data": {
         "JSON": {
