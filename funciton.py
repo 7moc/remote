@@ -3,7 +3,7 @@ import pymysql,sqlite3,time,requests
 from web3 import Web3
 
 # mysql数据库链接
-sql_conn = sqlite3.connect('dev_config.sqlite3')
+
 
 
 
@@ -21,8 +21,8 @@ polygon_test_address=Web3.toChecksumAddress("0x33c2E4d8975950fe0c04146f39794C3f0
 address_list=[eth_test_address,bsc_test_address,polygon_test_address]
 
 # 发送tg消息
-def send_tg_message_get(text):
-    url = 'https://api.telegram.org/bot1352370684:AAHrnyW26IPupau93pfE4b3ExfdJuOfErA8/sendMessage'
+def send_tg_message_get(token,text):
+    url = 'https://api.telegram.org/bot{}/sendMessage'.format(token)
     data = {'chat_id': -1001215971015,'text': text, "parse_mode": "HTML",}
     requests.get(url, data=data,proxies=proxies,timeout=10)
 
