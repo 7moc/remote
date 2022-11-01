@@ -4,7 +4,7 @@
     "eth_test_address":"0x655BDcb8F1d2CeD98d521a6B8f23badd892a2D98",
     "bsc_test_address":"0x72b61c6014342d914470ec7ac2975be345796c2b",
     "polygon_test_address":"0x33c2E4d8975950fe0c04146f39794C3f00569382",
-    "keword":["abandon", "ability", "able", "about", "above", "absent", "absorb", "abstract", "absurd", "abuse", "access", "accident", "account", "accuse", "achieve", "acid", "acoustic", "acquire", "across", "act", "action", "actor", "actress", "actual", "adapt", "add", "addict", "address", "adjust", "admit", "adult", "advance", "advice", "aerobic", "affair", "afford", "afraid", "again", "age", "agent", "agree", "ahead", "aim", "air", "airport", "aisle", "alarm", "album"],
+    "keyword":["abandon", "ability", "able", "about", "above", "absent", "absorb", "abstract", "absurd", "abuse", "access", "accident", "account", "accuse", "achieve", "acid", "acoustic", "acquire", "across", "act", "action", "actor", "actress", "actual", "adapt", "add", "addict", "address", "adjust", "admit", "adult", "advance", "advice", "aerobic", "affair", "afford", "afraid", "again", "age", "agent", "agree", "ahead", "aim", "air", "airport", "aisle", "alarm", "album"],
     "data": {
         "JSON": {
             "name": "张三、李四、小王"
