@@ -2,7 +2,6 @@ import pymysql,sqlite3,time,requests
 from web3 import Web3
 
 # mysql数据库链接
-mysql_conn = pymysql.connect(host='', port=3306, user='', passwd='', db='')
 sql_conn = sqlite3.connect('dev_config.sqlite3')
 
 
