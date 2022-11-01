@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-  
 import pymysql,sqlite3,time,requests
 from web3 import Web3
 
